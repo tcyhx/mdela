@@ -1,5 +1,5 @@
 # mdela
-YOLOv11s-Based Insulator Defect Detection Enhanced by Multi-Dilation Convolution and Efficient Local Attention
+Multi-Dilation Convolution and Efficient Local Attention Enhanced YOLOv11 for Insulator Defect Detection
 
 please access the following link to get the dataset and source code (the training code will be uploaded once the paper accepted):
 
